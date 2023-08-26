@@ -1,3 +1,4 @@
+"use client"
 import Layout from '../components/Layout'
 import  '../style/global.css'
 function MyApp({ Component, pageProps }) {

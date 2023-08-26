@@ -568,6 +568,7 @@ const ImageSection = styled.div`
   width: 100%;
   position: relative;
   height: 350px;
+  object-fit: contain;
 `;
 const Text = styled.p`
   font-family: "Roboto";
